@@ -185,4 +185,5 @@ int64_t PHASEPlaySoundEvent(const char* inName,
  */
 bool PHASEStopSoundEvent(int64_t inInstance);
 
+}
 #endif  // PHASESoundEventInterface_h
